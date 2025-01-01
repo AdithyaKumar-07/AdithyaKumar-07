@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building an Appling that provides Direct Market Access to Farmers and Customers integrated with AI
+
 - 🌱 I’m currently learning APP DEVELOPMENT
 <!--
 - 👯 I’m looking to collaborate on ...
