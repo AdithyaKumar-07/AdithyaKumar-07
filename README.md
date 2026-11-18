@@ -1,28 +1,26 @@
+<!-- ===================================================== -->
 
+<!--                 ADITHYA KUMAR                          -->
 
-\<!-- ===================================================== -->
+<!--              GITHUB PROFILE README                    -->
 
-\<!--                 ADITHYA KUMAR                          -->
+<!-- ===================================================== -->
 
-\<!--              GITHUB PROFILE README                    -->
+<div align="center">
 
-\<!-- ===================================================== -->
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4&height=220&section=header&text=ADITHYA%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas&descSize=15&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4\&height=220\&section=header\&text=ADITHYA%20KUMAR\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas\&descSize=15\&descAlignY=60\&animation=fadeIn)" width="100%" />
 
-\<div align="center">
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"> \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=2800\&pause=900\&color=8B5CF6\&center=true\&vCenter=true\&width=750\&height=55\&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems)" alt="Typing SVG" /> \</a>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4&height=220&section=header&text=ADITHYA%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas&descSize=15&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4\&height=220\&section=header\&text=ADITHYA%20KUMAR\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas\&descSize=15\&descAlignY=60\&animation=fadeIn)" width="100%" />
-
-\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"> \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=2800\&pause=900\&color=8B5CF6\&center=true\&vCenter=true\&width=750\&height=55\&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems)" alt="Typing SVG" /> \</a>
-
-\<br/>
+<br/>
 
 **AI Engineer · Software Developer · Research Enthusiast · Creative Technologist**
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/adithyakumar-a4n](https://github.com/adithyakumar-a4n)"> \<img src="[https://komarev.com/ghpvc/?username=adithyakumar-a4n&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=adithyakumar-a4n\&style=for-the-badge\&color=6D28D9\&label=PROFILE+VIEWS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=followers](https://github.com/adithyakumar-a4n?tab=followers)"> \<img src="[https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge&color=0891B2&label=FOLLOWERS](https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge\&color=0891B2\&label=FOLLOWERS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=repositories](https://github.com/adithyakumar-a4n?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+<a href="[https://github.com/adithyakumar-a4n](https://github.com/adithyakumar-a4n)"> \<img src="[https://komarev.com/ghpvc/?username=adithyakumar-a4n&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=adithyakumar-a4n\&style=for-the-badge\&color=6D28D9\&label=PROFILE+VIEWS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=followers](https://github.com/adithyakumar-a4n?tab=followers)"> \<img src="[https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge&color=0891B2&label=FOLLOWERS](https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge\&color=0891B2\&label=FOLLOWERS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=repositories](https://github.com/adithyakumar-a4n?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
 
-\</div>
+</div>
 
 ---
 
