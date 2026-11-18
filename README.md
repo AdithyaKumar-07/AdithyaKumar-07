@@ -1,26 +1,13 @@
-<!-- ===================================================== -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4&height=230&section=header&text=ADITHYA%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20%7C%20Turning%20Ideas%20Into%20Reality&descSize=14&descAlignY=60&animation=fadeIn)
 
-<!--                 ADITHYA KUMAR                          -->
 
-<!--              GITHUB PROFILE README                    -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=8B5CF6&center=true&vCenter=true&width=820&height=55&lines=AI%2FML+Engineering+%7C+Software+Development;Building+RAG+%26+Agentic+AI+Systems;Experimenting+with+Data+%26+Intelligent+Systems;Learning+by+Building+%E2%80%A2+Improving+by+Experimenting)
 
-<!-- ===================================================== -->
+**AI / ML Engineer in the making · Software Developer · Research Enthusiast · Creative Technologist**
 
-<div align="center">
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4&height=220&section=header&text=ADITHYA%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas&descSize=15&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:09090F,35:312E81,70:6D28D9,100:06B6D4\&height=220\&section=header\&text=ADITHYA%20KUMAR\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Ideas\&descSize=15\&descAlignY=60\&animation=fadeIn)" width="100%" />
-
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"> \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=2800\&pause=900\&color=8B5CF6\&center=true\&vCenter=true\&width=750\&height=55\&lines=AI+%2F+ML+Engineer+in+the+Making;Building+RAG+%26+Agentic+AI+Systems;Software+Developer+%7C+Problem+Solver;Exploring+Data%2C+Intelligence+%26+Innovation;Turning+Ideas+Into+Working+Systems)" alt="Typing SVG" /> \</a>
-
-<br/>
-
-**AI Engineer · Software Developer · Research Enthusiast · Creative Technologist**
-
-<br/>
-
-<a href="[https://github.com/adithyakumar-a4n](https://github.com/adithyakumar-a4n)"> \<img src="[https://komarev.com/ghpvc/?username=adithyakumar-a4n&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=adithyakumar-a4n\&style=for-the-badge\&color=6D28D9\&label=PROFILE+VIEWS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=followers](https://github.com/adithyakumar-a4n?tab=followers)"> \<img src="[https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge&color=0891B2&label=FOLLOWERS](https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge\&color=0891B2\&label=FOLLOWERS)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n?tab=repositories](https://github.com/adithyakumar-a4n?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
-
-</div>
+[![Explore Projects](https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyakumar-a4n?tab=repositories)
+[![Email](https://img.shields.io/badge/Contact-Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perakaadithyakumar@gmail.com)
+[![Followers](https://img.shields.io/github/followers/adithyakumar-a4n?style=for-the-badge&logo=github&label=Followers&color=6D28D9)](https://github.com/adithyakumar-a4n?tab=followers)
 
 ---
 
@@ -29,270 +16,163 @@
 ```python
 class AdithyaKumar:
     def __init__(self):
-        self.role = "Aspiring AI Engineer"
-        self.education = "B.Tech CSE - AI & ML"
-        self.location = "India 🇮🇳"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning & Deep Learning",
-            "Generative AI & Agentic Systems",
-            "Retrieval-Augmented Generation",
-            "Data Analytics & Engineering",
-            "Software Development",
-            "3D Art & Animation"
+        self.education = "B.Tech — Computer Science (AI & ML)"
+        self.location = "India"
+        self.focus = [
+            "AI Engineering and Machine Learning",
+            "Generative AI, RAG and Agentic Systems",
+            "Data Analytics and Engineering",
+            "Backend and Software Development",
+            "Research and Experimental Evaluation",
+            "Blender, 3D Art and Animation",
         ]
+        self.motto = "Learn. Build. Experiment. Improve."
 
-        self.philosophy = "Learn. Build. Experiment. Improve."
-
-    def introduce(self):
-        return "Turning curiosity into intelligent solutions."
+    def currently_doing(self):
+        return "Turning ideas into tested, useful systems."
 
 
 me = AdithyaKumar()
-print(me.introduce())
+print(me.currently_doing())
 ```
 
-I'm a Computer Science engineering student specializing in AI & ML, passionate about building intelligent applications and solving real-world problems through technology.
+I'm a final-year Computer Science engineering student specializing in AI & ML. I enjoy understanding how things work, building systems from the ground up, and testing ideas with real experiments—not just making demos look impressive.
 
-My interests span the entire engineering ecosystem — from understanding algorithms and designing software systems to experimenting with LLMs, building AI agents, analyzing data, and creating immersive 3D experiences.
-
-I believe in learning by building, validating ideas through experimentation, and continuously improving the systems I create.
+My work sits at the intersection of **AI engineering, software development, data, and research**. Outside the traditional engineering track, I also enjoy Blender, 3D animation, and cinematic world-building.
 
 ---
 
-## ⚡ What I'm Exploring
+## 🧭 Areas I Explore
 
-\<table> \<tr> \<td width="50%" valign="top">
+| 🧠 AI & Intelligent Systems | 💻 Software Engineering |
+|:--|:--|
+| Machine Learning & Deep Learning | Data Structures & Algorithms |
+| Natural Language Processing | Backend Development & REST APIs |
+| Generative AI, LLMs & RAG | Databases & SQL |
+| Agentic AI & AI Evaluation | Application and System Design |
+| Evidence Grounding & Reliability | Git, Testing & Deployment |
 
-### 🧠 AI & Intelligence
-
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Generative AI & LLMs
-- Retrieval-Augmented Generation
-- Agentic AI & Multi-Agent Systems
-- AI Evaluation & Reliability
-- MLOps
-
-\</td> \<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Data Structures & Algorithms
-- Backend Engineering
-- REST API Development
-- Database Design & SQL
-- Full-Stack Development
-- System Design
-- Cloud & Deployment
-
-\</td> \</tr> \<tr> \<td width="50%" valign="top">
-
-### 📊 Data & Research
-
-- Data Analytics
-- Data Engineering
-- Statistical Analysis
-- Anomaly Detection
-- Data Visualization
-- Experimental Evaluation
-- Research & Technical Writing
-
-\</td> \<td width="50%" valign="top">
-
-### 🎨 Creative Technology
-
-- Blender & 3D Modeling
-- 3D Animation
-- Unreal Engine
-- Cinematic Scene Creation
-- Visual Storytelling
-- Game Development
-
-\</td>
-\</tr>
-\</table>
+| 📊 Data & Research | 🎨 Creative Technology |
+|:--|:--|
+| Data Analytics & Visualization | Blender & 3D Modeling |
+| Data Processing & Feature Engineering | 3D Animation |
+| Anomaly Detection | Unreal Engine |
+| Experimental Design & Metrics | Cinematic Scene Creation |
+| Technical Research & Writing | Visual Storytelling |
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tools & Technologies
 
-### Programming Languages
+*Technologies I've used in coursework, projects, or focused learning. My depth of experience varies by tool, and I'm continuously improving through implementation.*
 
-\<p> \<img src="[https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,sql&theme=dark](https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,sql\&theme=dark)" /> \</p>
+![Tech stack](https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,fastapi,react,mysql,sqlite,git,github,blender,unreal&theme=dark&perline=7)
 
-### AI / ML / Data Science
-
-\<p> \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn\&theme=dark)" /> \</p>
-
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `NLP` · `Transformers` · `LangChain` · `RAG` · `LLMs`
-
-### Backend & Development
-
-\<p> \<img src="[https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express&theme=dark](https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express\&theme=dark)" /> \</p>
-
-`REST APIs` · `Pydantic` · `Postman` · `Maven`
-
-### Databases & Infrastructure
-
-\<p> \<img src="[https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,git,github,docker,aws&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,git,github,docker,aws\&theme=dark)" /> \</p>
-
-`ChromaDB` · `Vector Databases` · `Power BI`
-
-### Creative Tools
-
-\<p> \<img src="[https://skillicons.dev/icons?i=blender,unreal&theme=dark](https://skillicons.dev/icons?i=blender,unreal\&theme=dark)" /> \</p>
+| Area | Technologies |
+|:--|:--|
+| **Programming** | Python · C++ · C · Java |
+| **AI / ML** | PyTorch · scikit-learn · NLP · LLMs · RAG · Qiskit |
+| **Data** | SQL · MySQL · SQLite · Pandas · NumPy · Power BI |
+| **Backend & Developer Tools** | FastAPI · React · Git · GitHub · Postman |
+| **Knowledge Retrieval** | ChromaDB · Embeddings · Vector Search |
+| **Creative** | Blender · Unreal Engine |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-A selection of systems, experiments, and ideas I'm working on.
+### [TrustRAG](https://github.com/adithyakumar-a4n/TrustRAG)
+**Risk-Adaptive Evidence Verification for Retrieval-Augmented Generation**
 
-### 01. TrustRAG
+A research prototype that inspects generated answers claim by claim, retrieves supporting passages, tracks evidence provenance, estimates risk, and applies conservative retain, flag, or abstain decisions.
 
-**RAG Reliability & Trust Evaluation Framework**
+- Claim-level analysis and evidence retrieval.
+- Risk-Adaptive Evidence Verification (RAEV).
+- Optional Natural Language Inference (NLI) verification.
+- Provenance tracing, FastAPI service, SQLite persistence, and a local dashboard.
 
-Exploring how to make Retrieval-Augmented Generation systems more reliable through evidence validation, hallucination analysis, and systematic evaluation.
+**Stack:** Python · FastAPI · NLP · RAG · TF-IDF · BM25 · SQLite
 
-- Evidence-grounded answer evaluation
-- Retrieval and generation reliability
-- Experimental evaluation and metrics
-- Research-oriented development
+> **Research note:** This is an experimental reliability framework, not a solved hallucination-detection problem. The repository documents measured baselines, limitations, and evaluation still required; no unmeasured end-to-end improvement is claimed.
 
-**Tech:** Python · NLP · LLMs · RAG · AI Evaluation
+### [ClaimShield AI](https://github.com/adithyakumar-a4n/claimshield-ai)
+**Synthetic Healthcare Claims Analytics & Anomaly Review**
 
-[Explore TrustRAG →](https://github.com/adithyakumar-a4n/TrustRAG)
+An end-to-end data workflow that generates reproducible synthetic claims, validates data quality, engineers features, scores unusual records with Isolation Forest, and exports summaries for a Power BI dashboard.
 
-### 02. ClaimShield AI
+- Reproducible synthetic data generation.
+- Data-quality checks and feature engineering.
+- Isolation Forest anomaly scoring.
+- KPI, provider, and review-queue reporting.
+- Automated tests and Power BI reporting workflow.
 
-**Intelligent Healthcare Claims Analytics**
+**Stack:** Python · Pandas · scikit-learn · Isolation Forest · SQL · Power BI
 
-An end-to-end analytics pipeline designed to generate synthetic healthcare claims, perform data quality validation, identify anomalies using Isolation Forest, and prepare insights for Power BI visualization.
-
-- Synthetic data generation
-- Data quality validation
-- ML-based anomaly detection
-- Analytical KPI generation
-- Power BI integration
-
-**Tech:** Python · Pandas · Scikit-learn · Isolation Forest · Power BI
-
-### 03. A.R.C.
-
-**Adaptive Repository for Cognition**
-
-An AI-powered personal knowledge management system designed to organize, retrieve, and interact with knowledge from documents, notes, books, and learning resources.
-
-- Intelligent document ingestion
-- Semantic search and retrieval
-- Persistent vector storage
-- AI-assisted knowledge exploration
-
-**Tech:** Python · FastAPI · React · ChromaDB · SQLite
-
-### 04. Quantum Image Processing
-
-**Quantum Computing Research**
-
-Exploring quantum image representation techniques, including FRQI and NEQR, with applications in medical image processing.
-
-- Quantum image encoding
-- FRQI and NEQR implementations
-- Circuit complexity analysis
-- MSE and PSNR evaluation
-- Medical imaging research
-
-**Tech:** Python · Qiskit · Quantum Computing
-
-### 05. Other Projects & Experiments
-
-| Project    | Focus                                          |
-| ---------- | ---------------------------------------------- |
-| AGRIX      | Agricultural technology                        |
-| FinOVA     | Personal financial management                  |
-| HERA       | Women safety hardware                          |
-| PowerSense | Smart electrical monitoring                    |
+> **Data note:** The project uses synthetic data for demonstration. An anomaly flag is a review signal—not proof of fraud or a validated real-world healthcare decision.
 
 ---
 
-## 📊 GitHub Analytics
+## 🧪 Other Work & Experiments
 
-\<div align="center">
-
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=adithyakumar-a4n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=adithyakumar-a4n\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&rank_icon=github)" />
-
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakumar-a4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakumar-a4n\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
-
-\<br/>
-
-\<img src="[https://streak-stats.demolab.com?user=adithyakumar-a4n&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=adithyakumar-a4n\&theme=tokyonight\&hide_border=true)" width="75%" />
-
-\</div>
-
-### Contribution Activity
-
-\<div align="center">
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=adithyakumar-a4n&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=adithyakumar-a4n\&theme=tokyo-night\&hide_border=true\&area=true)" width="100%" />
-
-\</div>
+| Project | What it explores | Stage / context |
+|:--|:--|:--|
+| **A.R.C. — Adaptive Repository for Cognition** | Personal knowledge system with document ingestion, semantic retrieval, and AI-assisted exploration | In development |
+| **Quantum Image Processing** | FRQI / NEQR image representation, Qiskit circuits, and medical-imaging experiments | Academic research / experimentation |
+| **Resume_NER** | Rule-based, ML-based, and hybrid resume information extraction | NLP lab project |
+| **LLM_SDN_IMPROVED** | LLM-assisted SDN research, experimental evaluation, and technical manuscript work | Research / evaluation |
+| **AGRIX** | Digital tools for agricultural use cases | Project |
+| **FinOVA** | Personal finance management | Project |
+| **HERA** | Women-safety hardware concept | Hardware project |
+| **PowerSense** | App-controlled electrical panel load analysis and control | Hardware / software project |
 
 ---
 
-## 🎯 Currently Working Towards
+## 📚 Learning Journey
 
-- Building production-oriented AI applications.
-- Deepening my understanding of Agentic AI and LLM architectures.
-- Improving DSA and problem-solving skills.
-- Mastering backend and full-stack engineering.
-- Strengthening SQL, data analytics, and data engineering.
-- Exploring research-driven AI systems.
-- Creating immersive 3D scenes and animations.
-
----
-
-## 🏆 Learning & Certifications
+**Certification**
 
 - AWS Certified Solutions Architect – Associate.
-- Machine Learning Specialization – DeepLearning.AI.
-- Deep Learning and PyTorch learning tracks.
+
+**Completed learning tracks and specializations**
+
+- Machine Learning Specialization — DeepLearning.AI.
+- Deep Learning and PyTorch.
 - Natural Language Processing.
-- Generative AI, LLMs and RAG.
+- Generative AI with LLMs and Retrieval-Augmented Generation.
 - Agentic AI and MLOps.
 
 ---
 
-## 💡 Beyond Code
+## 🎯 Current Focus
 
-I enjoy exploring the intersection of engineering and creativity.
-
-When I'm not experimenting with AI models or building software, you might find me:
-
-- Creating 3D environments in Blender.
-- Exploring Unreal Engine and cinematic storytelling.
-- Learning new technologies and scientific concepts.
-- Exploring Quantum Computing.
-- Working on ideas that combine hardware, software, and intelligence.
-
-**My goal isn't just to learn technologies. It's to understand them deeply enough to build something meaningful.**
+- Engineering reliable, evidence-grounded RAG and agentic AI applications.
+- Strengthening software engineering foundations, DSA, and problem-solving.
+- Building backend systems and improving database design and SQL.
+- Practicing data analysis, experimentation, and clear technical communication.
+- Exploring research questions through reproducible evaluation.
+- Developing 3D scenes and animation workflows in Blender and Unreal Engine.
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Snapshot
 
-I'm always interested in connecting with developers, engineers, researchers, and creative minds.
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyakumar-a4n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github) -->
 
-\<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakumar-a4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-\<a href="mailto\:perakaadithyakumar\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a> \<a href="[https://github.com/adithyakumar-a4n](https://github.com/adithyakumar-a4n)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=adithyakumar-a4n&theme=tokyonight&hide_border=true)
 
-\<br/>\<br/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyakumar-a4n&theme=tokyo-night&hide_border=true&area=true)
 
-### "Stay curious. Build relentlessly. Never stop evolving."
+---
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:6D28D9,100:09090F&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,40:6D28D9,100:09090F\&height=120\&section=footer)" width="100%" />
+## 🤝 Connect
 
-\</div>
+I'm happy to connect with people working on AI, software, data, research, and creative technology.
 
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perakaadithyakumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyakumar-a4n)
+
+**“Stay curious. Build with purpose. Improve with evidence.”**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:6D28D9,100:09090F&height=120&section=footer)
